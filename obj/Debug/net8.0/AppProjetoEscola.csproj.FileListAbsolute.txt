@@ -1,0 +1,14 @@
+C:\Users\izian\OneDrive\Documentos\Poo e linguagem\2BimestrePOOeLP\AppProjetoEscola\bin\Debug\net8.0\AppProjetoEscola.exe
+C:\Users\izian\OneDrive\Documentos\Poo e linguagem\2BimestrePOOeLP\AppProjetoEscola\bin\Debug\net8.0\AppProjetoEscola.deps.json
+C:\Users\izian\OneDrive\Documentos\Poo e linguagem\2BimestrePOOeLP\AppProjetoEscola\bin\Debug\net8.0\AppProjetoEscola.runtimeconfig.json
+C:\Users\izian\OneDrive\Documentos\Poo e linguagem\2BimestrePOOeLP\AppProjetoEscola\bin\Debug\net8.0\AppProjetoEscola.dll
+C:\Users\izian\OneDrive\Documentos\Poo e linguagem\2BimestrePOOeLP\AppProjetoEscola\bin\Debug\net8.0\AppProjetoEscola.pdb
+C:\Users\izian\OneDrive\Documentos\Poo e linguagem\2BimestrePOOeLP\AppProjetoEscola\obj\Debug\net8.0\AppProjetoEscola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\izian\OneDrive\Documentos\Poo e linguagem\2BimestrePOOeLP\AppProjetoEscola\obj\Debug\net8.0\AppProjetoEscola.AssemblyInfoInputs.cache
+C:\Users\izian\OneDrive\Documentos\Poo e linguagem\2BimestrePOOeLP\AppProjetoEscola\obj\Debug\net8.0\AppProjetoEscola.AssemblyInfo.cs
+C:\Users\izian\OneDrive\Documentos\Poo e linguagem\2BimestrePOOeLP\AppProjetoEscola\obj\Debug\net8.0\AppProjetoEscola.csproj.CoreCompileInputs.cache
+C:\Users\izian\OneDrive\Documentos\Poo e linguagem\2BimestrePOOeLP\AppProjetoEscola\obj\Debug\net8.0\AppProjetoEscola.dll
+C:\Users\izian\OneDrive\Documentos\Poo e linguagem\2BimestrePOOeLP\AppProjetoEscola\obj\Debug\net8.0\refint\AppProjetoEscola.dll
+C:\Users\izian\OneDrive\Documentos\Poo e linguagem\2BimestrePOOeLP\AppProjetoEscola\obj\Debug\net8.0\AppProjetoEscola.pdb
+C:\Users\izian\OneDrive\Documentos\Poo e linguagem\2BimestrePOOeLP\AppProjetoEscola\obj\Debug\net8.0\AppProjetoEscola.genruntimeconfig.cache
+C:\Users\izian\OneDrive\Documentos\Poo e linguagem\2BimestrePOOeLP\AppProjetoEscola\obj\Debug\net8.0\ref\AppProjetoEscola.dll
